@@ -1,0 +1,31 @@
+a {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+    color: #17a09d;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    background-image: url("http://img1.reactor.cc/pics/post/full/Rick-and-Morty-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-R%26M-art-Rick-Sanchez-2628855.png") ;
+    background-size: cover;
+    color: #000000;
+    font-family: "Roboto", sans-serif;
+}
+
+.product{
+    color: #FFFFFF;
+}
+
+.product:hover, .product:active, .product:focus {
+    color: fuchsia;
+}
+
+i {
+    color: red;
+}
